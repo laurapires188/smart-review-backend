@@ -1,4 +1,5 @@
 {
+  "project": "smart-review/tsconfig.json",
   "extends": ["plugin:adonis/typescriptApp", "prettier"],
   "plugins": ["prettier"],
   "rules": {
